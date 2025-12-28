@@ -1,0 +1,143 @@
+<DOCTYPE html>
+<html>
+<head>
+    <title>Bright Vision Academy</title>
+</head>
+
+<body>
+
+<h1 align="center">Bright Vision Academy</h1>
+<p align="center">
+<b>Learn | Build | Succeed</b>
+</p>
+
+<hr>
+
+<p align="center">
+<a href="#home">Home</a> |
+<a href="#about">About Us</a> |
+<a href="#courses">Courses</a> |
+<a href="#teachers">Teachers</a> |
+<a href="#admission">Admission</a> |
+<a href="#contact">Contact</a>
+</p>
+
+<hr>
+
+<a name="home"></a>
+<h2>Welcome</h2>
+<p>
+Bright Vision Academy is a small educational institute that provides basic
+and advanced computer education to students. Our goal is to help students
+gain practical knowledge and skills for their future.
+</p>
+
+<img src="image.jpg" alt="Institute Image">
+
+<hr>
+
+<a name="about"></a>
+<h2>About Us</h2>
+<p>
+Our academy was established to promote quality education in computer science.
+We believe in learning by practice and understanding concepts clearly.
+</p>
+
+<ul>
+    <li>Qualified Teachers</li>
+    <li>Affordable Fee</li>
+    <li>Practical Learning</li>
+</ul>
+
+<hr>
+
+<a name="courses"></a>
+<h2>Courses Offered</h2>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Course Name</th>
+        <th>Duration</th>
+        <th>Fee</th>
+    </tr>
+    <tr>
+        <td>Basic Computer</td>
+        <td>3 Months</td>
+        <td>5000 PKR</td>
+    </tr>
+    <tr>
+        <td>Web Development</td>
+        <td>4 Months</td>
+        <td>8000 PKR</td>
+    </tr>
+    <tr>
+        <td>Programming in C</td>
+        <td>3 Months</td>
+        <td>7000 PKR</td>
+    </tr>
+</table>
+
+<hr>
+
+<a name="teachers"></a>
+<h2>Our Teachers</h2>
+
+<ol>
+    <li>Sir Ahmad – Web Development</li>
+    <li>Sir Ali – Programming</li>
+    <li>Miss Sana – Computer Basics</li>
+</ol>
+
+<hr>
+
+<a name="admission"></a>
+<h2>Admission Form</h2>
+
+<form>
+<fieldset>
+<legend>Student Information</legend>
+
+<label>Name:</label><br>
+<input type="text"><br><br>
+
+<label>Email:</label><br>
+<input type="email"><br><br>
+
+<label>Course:</label><br>
+<select>
+    <option>Basic Computer</option>
+    <option>Web Development</option>
+    <option>Programming in C</option>
+</select><br><br>
+
+<input type="submit" value="Apply Now">
+
+</fieldset>
+</form>
+
+<hr>
+
+<a name="contact"></a>
+<h2>Contact Us</h2>
+
+<p>
+<b>Address:</b> Main Bazar, Mardan<br>
+<b>Phone:</b> 0300-1234567<br>
+<b>Email:</b> brightvisionacademy@gmail.com
+</p>
+
+<p>
+Follow us on:
+<a href="https://www.facebook.com">Facebook</a> |
+<a href="https://www.google.com">Google</a>
+</p>
+
+<hr>
+
+<p align="center">
+&copy; 2025 Bright Vision Academy<br>
+All Rights Reserved
+</p>
+
+</body>
+</html>
